@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Inna
-- 👀 I’m interested in ML & AI applications for industry
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on life science and EV energy storage projects
+Enthusiastic about ML & AI, developing business analytics, process optimization and accelerated materials research with a scientific approach in data sourcing, preprocessing and feature selection / engineering.
+- 💞️ I’m looking to collaborate on life science, composite materials and energy storage projects
 - 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/inna-gurevitch-43256435/)
 
 <!---
